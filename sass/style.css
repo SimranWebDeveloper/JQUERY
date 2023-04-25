@@ -1,0 +1,160 @@
+body {
+  background-color: burlywood;
+}
+
+body .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .main .main-article {
+  width: 900px;
+  background-color: #81C9FD;
+  border: 4px solid blue;
+  padding: 20px;
+}
+
+body .main .main-article .article {
+  border: 2px solid blue;
+}
+
+body .main .main-article .article h2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .main .main-article .main-box {
+  padding: 10px;
+}
+
+body .main .main-article .main-box button {
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: #2525be;
+  color: white;
+  border-radius: 5px;
+}
+
+body .main .main-animation {
+  width: 900px;
+  background-color: #81C9FD;
+  border: 4px solid blue;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+body .main .main-animation h2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .main .main-animation .mycolor {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+body .main .main-animation #danger {
+  background-color: red;
+}
+
+body .main .main-animation #success {
+  background-color: green;
+}
+
+body .main .main-animation button {
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: #2525be;
+  color: white;
+  border-radius: 20px;
+}
+
+body .main .date {
+  width: 900px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: #81C9FD;
+  margin-top: 20px;
+  border: 4px solid blue;
+  padding: 20px;
+}
+
+body .main .date .box-pill {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .main .date .box-pill .pill {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  color: white;
+  border-radius: 25px;
+  margin: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.add {
+  background-color: white;
+  color: red;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=style.css.map */
